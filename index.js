@@ -32,10 +32,6 @@ function distanceFromHqInBlocks(destination) {
     }
   }
   
-  module.exports = {
-    distanceFromHqInBlocks,
-    distanceFromHqInFeet,
-    distanceTravelledInFeet,
-    calculatesFarePrice
-  };
+ 
+  
   
